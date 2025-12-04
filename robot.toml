@@ -1,0 +1,10 @@
+name = "neorobot"
+
+[motors]
+[motors.topleft]
+
+[motors.topright]
+
+[motors.botleft]
+
+[motors.botright]
